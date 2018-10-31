@@ -52,3 +52,9 @@ body{
     padding: 5px;
     border-radius: 5px;
 }
+
+@media (max-width:640px) {
+   #home-section {
+    background-attachment:initial;
+  }
+}
