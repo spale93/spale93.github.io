@@ -55,7 +55,8 @@ body{
 
 @media (max-width:640px) {
    #home-section {
-    
+    background: url(../img/home@2x.jpg);
+    background-size: cover;
     background-attachment:initial;
   }
 }
